@@ -6,7 +6,7 @@
 Create a COVID-19 Stats Application. You're going to use React with the addition of Charts.js and Material UI.
 The data is fetched from the API and you're will create cards displaying the statistics and Charts. 
 
-### `Setup`
+### `Setup:`
 
 run npm i && npm start
 
@@ -14,3 +14,8 @@ run npm i && npm start
 ### `Api used:`
 
 https://covid19.mathdro.id/api
+
+
+### `Open the project:`
+
+https://covid-stats-ecru.vercel.app/
