@@ -8,7 +8,7 @@ The data is fetched from the API and you're will create cards displaying the sta
 
 ## Setup:
 
-run npm i && npm start
+npm start
 
 
 ## Api used:
